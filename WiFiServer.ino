@@ -10,8 +10,8 @@
 #include <ESP8266WiFi.h>
 
 #ifndef STASSID
-#define STASSID "Orcon-Wireless"
-#define STAPSK  "A120OGL403007"
+#define STASSID "YOUR WIFI NAME"
+#define STAPSK  "YOUR WIFI PASSWORD"
 #endif
 
 const char* ssid = STASSID;
